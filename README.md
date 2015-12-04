@@ -2,7 +2,7 @@
 
 ## Site
 
-* https://tmrn.azurewebsites.net/](https://tmrn.azurewebsites.net/
+* https://tmrn.azurewebsites.net/
 
 ## Link
 
